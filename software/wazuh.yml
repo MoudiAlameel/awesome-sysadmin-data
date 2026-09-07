@@ -8,12 +8,12 @@ platforms:
 tags:
   - Monitoring & Status Pages
 source_code_url: https://github.com/wazuh/wazuh
-stargazers_count: 16786
+stargazers_count: 16798
 updated_at: '2026-09-04'
 archived: false
 current_release:
-  tag: v4.10.5-rc1
-  published_at: '2026-09-02'
+  tag: v5.0.0-beta5
+  published_at: '2026-09-01'
 commit_history:
   2025-10: 607
   2025-11: 415
