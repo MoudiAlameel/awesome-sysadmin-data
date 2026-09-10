@@ -8,8 +8,8 @@ platforms:
 tags:
   - Remote Desktop Clients
 source_code_url: https://gitlab.com/Remmina/Remmina
-stargazers_count: 905
-updated_at: '2026-09-08'
+stargazers_count: 906
+updated_at: '2026-09-10'
 archived: false
 current_release:
   tag: v1.4.43
