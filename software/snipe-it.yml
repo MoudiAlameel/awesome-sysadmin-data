@@ -8,8 +8,8 @@ platforms:
 tags:
   - IT Asset Management
 source_code_url: https://github.com/grokability/snipe-it
-stargazers_count: 14937
-updated_at: '2026-09-13'
+stargazers_count: 14941
+updated_at: '2026-09-15'
 archived: false
 current_release:
   tag: v8.7.2
@@ -24,6 +24,6 @@ commit_history:
   2026-04: 409
   2026-05: 633
   2026-06: 393
-  2026-07: 668
-  2026-08: 743
-  2026-09: 44
+  2026-07: 675
+  2026-08: 762
+  2026-09: 85
