@@ -8,8 +8,8 @@ platforms:
 tags:
   - VPN
 source_code_url: https://github.com/SoftEtherVPN/SoftEtherVPN/
-stargazers_count: 13544
-updated_at: '2026-09-02'
+stargazers_count: 13546
+updated_at: '2026-09-13'
 archived: false
 current_release:
   tag: 5.2.5188
@@ -26,4 +26,4 @@ commit_history:
   2026-06: 6
   2026-07: 1
   2026-08: 29
-  2026-09: 8
+  2026-09: 10

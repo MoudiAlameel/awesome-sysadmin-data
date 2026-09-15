@@ -8,12 +8,12 @@ platforms:
 tags:
   - Monitoring & Status Pages
 source_code_url: https://github.com/AnalogJ/scrutiny
-stargazers_count: 8207
-updated_at: '2026-09-09'
+stargazers_count: 8213
+updated_at: '2026-09-13'
 archived: false
 current_release:
-  tag: v0.9.3
-  published_at: '2026-08-08'
+  tag: v0.9.4
+  published_at: '2026-09-13'
 commit_history:
   2025-10: 2
   2025-11: 0
@@ -26,4 +26,4 @@ commit_history:
   2026-06: 1
   2026-07: 1
   2026-08: 16
-  2026-09: 3
+  2026-09: 4
