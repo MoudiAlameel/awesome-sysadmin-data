@@ -8,12 +8,12 @@ platforms:
 tags:
   - Identity Management - Single Sign-On (SSO)
 source_code_url: https://github.com/authelia/authelia
-stargazers_count: 28964
-updated_at: '2026-09-14'
+stargazers_count: 28980
+updated_at: '2026-09-15'
 archived: false
 current_release:
-  tag: v4.39.26
-  published_at: '2026-09-12'
+  tag: v4.39.27
+  published_at: '2026-09-15'
 commit_history:
   2025-10: 212
   2025-11: 161
@@ -26,4 +26,4 @@ commit_history:
   2026-06: 175
   2026-07: 195
   2026-08: 244
-  2026-09: 195
+  2026-09: 204
