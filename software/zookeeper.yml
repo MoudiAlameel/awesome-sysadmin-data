@@ -10,7 +10,7 @@ tags:
   - Service Discovery
 source_code_url: https://github.com/apache/zookeeper
 stargazers_count: 12806
-updated_at: '2026-09-15'
+updated_at: '2026-09-17'
 archived: false
 commit_history:
   2025-10: 3
@@ -24,4 +24,4 @@ commit_history:
   2026-06: 5
   2026-07: 11
   2026-08: 9
-  2026-09: 11
+  2026-09: 12
