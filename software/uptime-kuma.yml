@@ -8,12 +8,12 @@ platforms:
 tags:
   - Monitoring & Status Pages
 source_code_url: https://github.com/louislam/uptime-kuma
-stargazers_count: 91403
-updated_at: '2026-09-14'
+stargazers_count: 91442
+updated_at: '2026-09-16'
 archived: false
 current_release:
-  tag: 2.5.4
-  published_at: '2026-09-11'
+  tag: 2.5.5
+  published_at: '2026-09-16'
 commit_history:
   2025-10: 100
   2025-11: 42
@@ -26,4 +26,4 @@ commit_history:
   2026-06: 37
   2026-07: 40
   2026-08: 69
-  2026-09: 43
+  2026-09: 46

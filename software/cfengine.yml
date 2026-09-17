@@ -9,7 +9,7 @@ tags:
   - Configuration Management
 source_code_url: https://github.com/cfengine/core
 stargazers_count: 535
-updated_at: '2026-09-15'
+updated_at: '2026-09-16'
 archived: false
 commit_history:
   2025-10: 44
@@ -22,5 +22,5 @@ commit_history:
   2026-05: 49
   2026-06: 84
   2026-07: 98
-  2026-08: 95
-  2026-09: 20
+  2026-08: 96
+  2026-09: 25
