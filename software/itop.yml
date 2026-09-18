@@ -8,8 +8,8 @@ platforms:
 tags:
   - Configuration Management Database
 source_code_url: https://github.com/Combodo/iTop
-stargazers_count: 1181
-updated_at: '2026-09-16'
+stargazers_count: 1183
+updated_at: '2026-09-18'
 archived: false
 current_release:
   tag: 3.3.0
@@ -20,4 +20,4 @@ commit_history:
   2026-06: 60
   2026-07: 98
   2026-08: 103
-  2026-09: 36
+  2026-09: 39
