@@ -9,11 +9,11 @@ tags:
   - Backups
 source_code_url: https://github.com/EnterpriseDB/barman
 stargazers_count: 3245
-updated_at: '2026-08-27'
+updated_at: '2026-09-29'
 archived: false
 current_release:
-  tag: release/3.20.0
-  published_at: '2026-08-27'
+  tag: release/3.20.1
+  published_at: '2026-09-29'
 commit_history:
   2025-10: 9
   2025-11: 16
@@ -26,4 +26,4 @@ commit_history:
   2026-06: 46
   2026-07: 42
   2026-08: 65
-  2026-09: 0
+  2026-09: 30
